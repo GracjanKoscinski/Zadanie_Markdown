@@ -1,10 +1,10 @@
 # Naglowek
 
-        Pierwszy paragraf
+Pierwszy paragraf
 
-        Drugi paragraf
+Drugi paragraf
 
-        Trzeci paragraf
+Trzeci paragraf
 
 *kursywa* ~~przekreslenie~~ **pogrubienie**
 
