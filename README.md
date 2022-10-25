@@ -1,5 +1,4 @@
-
-#Naglowek
+# Naglowek
 
         Pierwszy paragraf
 
@@ -8,6 +7,7 @@
         Trzeci paragraf
 
 *kursywa* ~~przekreslenie~~ **pogrubienie**
+
  Cytat:
 >A mozna jak najbardziej, jeszcze jak
 
@@ -15,8 +15,8 @@ Zagniezdzona lista numeryczna:
 1. Pierwszy 
 1. Drugi
 1. Trzeci
-        1. Zagniezdzenie 1
-        2. Zagniedzenie 2
+	1. Zagniezdzenie 1
+	1. Zagniezdzenie 2
 
 Zagniezdzona lista nienumerowana:
  - lista
