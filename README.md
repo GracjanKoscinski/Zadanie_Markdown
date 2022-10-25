@@ -33,7 +33,7 @@ print(a+b)
 ```
 W jezyku Python polecenie `print()` sluzy do wypisywania
 
-![Moj obraz](pingwin.jpeg"Obrazek")
+![MojObraz](pingwin.jpeg "Obrazek")
 
 
 
